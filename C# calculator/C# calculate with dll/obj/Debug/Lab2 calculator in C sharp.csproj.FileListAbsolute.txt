@@ -1,0 +1,49 @@
+C:\Users\Netengineer\Desktop\Network Centric\Lab2 calculator in C sharp\bin\Debug\Lab2 calculator in C sharp.exe.config
+C:\Users\Netengineer\Desktop\Network Centric\Lab2 calculator in C sharp\bin\Debug\Lab2 calculator in C sharp.exe
+C:\Users\Netengineer\Desktop\Network Centric\Lab2 calculator in C sharp\bin\Debug\Lab2 calculator in C sharp.pdb
+C:\Users\Netengineer\Desktop\Network Centric\Lab2 calculator in C sharp\obj\Debug\Lab2 calculator in C sharp.csproj.AssemblyReference.cache
+C:\Users\Netengineer\Desktop\Network Centric\Lab2 calculator in C sharp\obj\Debug\Lab2_calculator_in_C_sharp.Form1.resources
+C:\Users\Netengineer\Desktop\Network Centric\Lab2 calculator in C sharp\obj\Debug\Lab2_calculator_in_C_sharp.Properties.Resources.resources
+C:\Users\Netengineer\Desktop\Network Centric\Lab2 calculator in C sharp\obj\Debug\Lab2 calculator in C sharp.csproj.GenerateResource.cache
+C:\Users\Netengineer\Desktop\Network Centric\Lab2 calculator in C sharp\obj\Debug\Lab2 calculator in C sharp.csproj.CoreCompileInputs.cache
+C:\Users\Netengineer\Desktop\Network Centric\Lab2 calculator in C sharp\obj\Debug\Lab2 calculator in C sharp.exe
+C:\Users\Netengineer\Desktop\Network Centric\Lab2 calculator in C sharp\obj\Debug\Lab2 calculator in C sharp.pdb
+C:\Users\Netengineer\Desktop\Network Centric\Lab 4\Lab 4 C# calculate with dll\obj\Debug\Lab2 calculator in C sharp.csproj.AssemblyReference.cache
+C:\Users\Netengineer\Desktop\Network Centric\Lab 4\Lab 4 C# calculate with dll\obj\Debug\Lab2_calculator_in_C_sharp.Form1.resources
+C:\Users\Netengineer\Desktop\Network Centric\Lab 4\Lab 4 C# calculate with dll\obj\Debug\Lab2_calculator_in_C_sharp.Properties.Resources.resources
+C:\Users\Netengineer\Desktop\Network Centric\Lab 4\Lab 4 C# calculate with dll\obj\Debug\Lab2 calculator in C sharp.csproj.GenerateResource.cache
+C:\Users\Netengineer\Desktop\Network Centric\Lab 4\Lab 4 C# calculate with dll\obj\Debug\Lab2 calculator in C sharp.csproj.CoreCompileInputs.cache
+C:\Users\Netengineer\Desktop\Network Centric\Lab 4\Lab 4 C# calculate with dll\obj\Debug\Lab2 calculator in C sharp.exe
+C:\Users\Netengineer\Desktop\Network Centric\Lab 4\Lab 4 C# calculate with dll\obj\Debug\Lab2 calculator in C sharp.pdb
+C:\Users\Netengineer\Desktop\Network Centric\Lab 4\Lab 4 C# calculate with dll\bin\Debug\Lab2 calculator in C sharp.exe.config
+C:\Users\Netengineer\Desktop\Network Centric\Lab 4\Lab 4 C# calculate with dll\bin\Debug\Lab2 calculator in C sharp.exe
+C:\Users\Netengineer\Desktop\Network Centric\Lab 4\Lab 4 C# calculate with dll\bin\Debug\Lab2 calculator in C sharp.pdb
+C:\Users\Netengineer\Desktop\Network Centric\Lab 4\Lab 4 C# calculate with dll\bin\Debug\DLLMathsFuncs.dll
+C:\Users\Netengineer\Desktop\Network Centric\Lab 4\Lab 4 C# calculate with dll\bin\Debug\DLLMathsFuncs.pdb
+C:\Users\Netengineer\Desktop\Network Centric\Lab 4\Lab 4 C# calculate with dll\obj\Debug\Lab2 calculator in C sharp.csproj.CopyComplete
+C:\Users\Netengineer\Desktop\Network Centric\Lab 4\C# calculator\Lab 4 C# calculate with dll\bin\Debug\Lab2 calculator in C sharp.exe.config
+C:\Users\Netengineer\Desktop\Network Centric\Lab 4\C# calculator\Lab 4 C# calculate with dll\bin\Debug\Lab2 calculator in C sharp.exe
+C:\Users\Netengineer\Desktop\Network Centric\Lab 4\C# calculator\Lab 4 C# calculate with dll\bin\Debug\Lab2 calculator in C sharp.pdb
+C:\Users\Netengineer\Desktop\Network Centric\Lab 4\C# calculator\Lab 4 C# calculate with dll\bin\Debug\DLLMathsFuncs.dll
+C:\Users\Netengineer\Desktop\Network Centric\Lab 4\C# calculator\Lab 4 C# calculate with dll\bin\Debug\DLLMathsFuncs.pdb
+C:\Users\Netengineer\Desktop\Network Centric\Lab 4\C# calculator\Lab 4 C# calculate with dll\obj\Debug\Lab2 calculator in C sharp.csproj.AssemblyReference.cache
+C:\Users\Netengineer\Desktop\Network Centric\Lab 4\C# calculator\Lab 4 C# calculate with dll\obj\Debug\Lab2_calculator_in_C_sharp.Form1.resources
+C:\Users\Netengineer\Desktop\Network Centric\Lab 4\C# calculator\Lab 4 C# calculate with dll\obj\Debug\Lab2_calculator_in_C_sharp.Properties.Resources.resources
+C:\Users\Netengineer\Desktop\Network Centric\Lab 4\C# calculator\Lab 4 C# calculate with dll\obj\Debug\Lab2 calculator in C sharp.csproj.GenerateResource.cache
+C:\Users\Netengineer\Desktop\Network Centric\Lab 4\C# calculator\Lab 4 C# calculate with dll\obj\Debug\Lab2 calculator in C sharp.csproj.CoreCompileInputs.cache
+C:\Users\Netengineer\Desktop\Network Centric\Lab 4\C# calculator\Lab 4 C# calculate with dll\obj\Debug\Lab2 calculator in C sharp.csproj.CopyComplete
+C:\Users\Netengineer\Desktop\Network Centric\Lab 4\C# calculator\Lab 4 C# calculate with dll\obj\Debug\Lab2 calculator in C sharp.exe
+C:\Users\Netengineer\Desktop\Network Centric\Lab 4\C# calculator\Lab 4 C# calculate with dll\obj\Debug\Lab2 calculator in C sharp.pdb
+C:\Users\Netengineer\source\repos\code\Lab 8\C# calculator\Lab 4 C# calculate with dll\bin\Debug\Lab2 calculator in C sharp.exe.config
+C:\Users\Netengineer\source\repos\code\Lab 8\C# calculator\Lab 4 C# calculate with dll\bin\Debug\Lab2 calculator in C sharp.exe
+C:\Users\Netengineer\source\repos\code\Lab 8\C# calculator\Lab 4 C# calculate with dll\bin\Debug\Lab2 calculator in C sharp.pdb
+C:\Users\Netengineer\source\repos\code\Lab 8\C# calculator\Lab 4 C# calculate with dll\bin\Debug\DLLMathsFuncs.dll
+C:\Users\Netengineer\source\repos\code\Lab 8\C# calculator\Lab 4 C# calculate with dll\bin\Debug\DLLMathsFuncs.pdb
+C:\Users\Netengineer\source\repos\code\Lab 8\C# calculator\Lab 4 C# calculate with dll\obj\Debug\Lab2 calculator in C sharp.csproj.AssemblyReference.cache
+C:\Users\Netengineer\source\repos\code\Lab 8\C# calculator\Lab 4 C# calculate with dll\obj\Debug\Lab2_calculator_in_C_sharp.Form1.resources
+C:\Users\Netengineer\source\repos\code\Lab 8\C# calculator\Lab 4 C# calculate with dll\obj\Debug\Lab2_calculator_in_C_sharp.Properties.Resources.resources
+C:\Users\Netengineer\source\repos\code\Lab 8\C# calculator\Lab 4 C# calculate with dll\obj\Debug\Lab2 calculator in C sharp.csproj.GenerateResource.cache
+C:\Users\Netengineer\source\repos\code\Lab 8\C# calculator\Lab 4 C# calculate with dll\obj\Debug\Lab2 calculator in C sharp.csproj.CoreCompileInputs.cache
+C:\Users\Netengineer\source\repos\code\Lab 8\C# calculator\Lab 4 C# calculate with dll\obj\Debug\Lab2 calculator in C sharp.csproj.CopyComplete
+C:\Users\Netengineer\source\repos\code\Lab 8\C# calculator\Lab 4 C# calculate with dll\obj\Debug\Lab2 calculator in C sharp.exe
+C:\Users\Netengineer\source\repos\code\Lab 8\C# calculator\Lab 4 C# calculate with dll\obj\Debug\Lab2 calculator in C sharp.pdb
