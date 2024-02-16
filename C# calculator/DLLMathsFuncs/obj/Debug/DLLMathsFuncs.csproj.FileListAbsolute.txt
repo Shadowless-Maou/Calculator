@@ -1,0 +1,17 @@
+C:\Users\Netengineer\Desktop\Network Centric\Lab 4\DLLMathsFuncs\bin\Debug\DLLMathsFuncs.dll
+C:\Users\Netengineer\Desktop\Network Centric\Lab 4\DLLMathsFuncs\bin\Debug\DLLMathsFuncs.pdb
+C:\Users\Netengineer\Desktop\Network Centric\Lab 4\DLLMathsFuncs\obj\Debug\DLLMathsFuncs.csproj.AssemblyReference.cache
+C:\Users\Netengineer\Desktop\Network Centric\Lab 4\DLLMathsFuncs\obj\Debug\DLLMathsFuncs.csproj.CoreCompileInputs.cache
+C:\Users\Netengineer\Desktop\Network Centric\Lab 4\DLLMathsFuncs\obj\Debug\DLLMathsFuncs.dll
+C:\Users\Netengineer\Desktop\Network Centric\Lab 4\DLLMathsFuncs\obj\Debug\DLLMathsFuncs.pdb
+C:\Users\Netengineer\Desktop\Network Centric\Lab 4\C# calculator\DLLMathsFuncs\bin\Debug\DLLMathsFuncs.dll
+C:\Users\Netengineer\Desktop\Network Centric\Lab 4\C# calculator\DLLMathsFuncs\bin\Debug\DLLMathsFuncs.pdb
+C:\Users\Netengineer\Desktop\Network Centric\Lab 4\C# calculator\DLLMathsFuncs\obj\Debug\DLLMathsFuncs.csproj.AssemblyReference.cache
+C:\Users\Netengineer\Desktop\Network Centric\Lab 4\C# calculator\DLLMathsFuncs\obj\Debug\DLLMathsFuncs.csproj.CoreCompileInputs.cache
+C:\Users\Netengineer\Desktop\Network Centric\Lab 4\C# calculator\DLLMathsFuncs\obj\Debug\DLLMathsFuncs.dll
+C:\Users\Netengineer\Desktop\Network Centric\Lab 4\C# calculator\DLLMathsFuncs\obj\Debug\DLLMathsFuncs.pdb
+C:\Users\Netengineer\source\repos\code\Lab 8\C# calculator\DLLMathsFuncs\bin\Debug\DLLMathsFuncs.dll
+C:\Users\Netengineer\source\repos\code\Lab 8\C# calculator\DLLMathsFuncs\bin\Debug\DLLMathsFuncs.pdb
+C:\Users\Netengineer\source\repos\code\Lab 8\C# calculator\DLLMathsFuncs\obj\Debug\DLLMathsFuncs.csproj.CoreCompileInputs.cache
+C:\Users\Netengineer\source\repos\code\Lab 8\C# calculator\DLLMathsFuncs\obj\Debug\DLLMathsFuncs.dll
+C:\Users\Netengineer\source\repos\code\Lab 8\C# calculator\DLLMathsFuncs\obj\Debug\DLLMathsFuncs.pdb
